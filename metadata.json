@@ -1,0 +1,6 @@
+{
+  "name": "AirPods Control",
+  "description": "کنترل کامل، اکولایزر حرفه‌ای، نمایش باتری و مدیریت ایرپاد با رابط کاربری فارسی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
